@@ -18,3 +18,5 @@ include_directories(${OpenCV_INCLUDE_DIRS})
 
 add_executable (main ${src})
 target_link_libraries (main ${PCL_LIBRARIES})
+
+
