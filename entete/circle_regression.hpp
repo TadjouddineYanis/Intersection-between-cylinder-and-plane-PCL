@@ -7,3 +7,7 @@ std::vector<double> gradient(std::vector<double> x, std::vector<double> r, std::
 std::vector<double> gradient_desc(std::vector<double> x, std::vector<double> r, std::vector<double> y, int iter);
 void print_vector(std::vector<double> vect);
 std::vector<double> linspace (double x_start, double x_end, double n_points);
+
+
+
+
