@@ -1,3 +1,0 @@
-/home/tadjouddine/Programmes_c++/Programmes_Internship/Intersection_cylinder_plane/build/CMakeFiles/rebuild_cache.dir
-/home/tadjouddine/Programmes_c++/Programmes_Internship/Intersection_cylinder_plane/build/CMakeFiles/edit_cache.dir
-/home/tadjouddine/Programmes_c++/Programmes_Internship/Intersection_cylinder_plane/build/CMakeFiles/main.dir
